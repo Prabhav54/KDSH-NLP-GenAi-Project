@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: KDSH_2026_Hackathon_Solution
+Version: 0.0.1
+Author: Prabhav Khare
+Author-email: your_email@example.com
+Requires-Dist: pathway[xpack-llm]
+Requires-Dist: langchain-google-genai
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: tiktoken
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

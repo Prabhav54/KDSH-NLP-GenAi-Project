@@ -1,0 +1,7 @@
+README.md
+setup.py
+KDSH_2026_Hackathon_Solution.egg-info/PKG-INFO
+KDSH_2026_Hackathon_Solution.egg-info/SOURCES.txt
+KDSH_2026_Hackathon_Solution.egg-info/dependency_links.txt
+KDSH_2026_Hackathon_Solution.egg-info/requires.txt
+KDSH_2026_Hackathon_Solution.egg-info/top_level.txt
