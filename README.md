@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x200?text=KDSH+2026:+NLP+%26+GenAI+Solution" alt="Project Banner">
+
   
   <h1>🤖 KDSH: NLP & GenAI Project</h1>
   <p><em>Advanced Natural Language Processing and Generative AI Solution for the Kharagpur Data Science Hackathon</em></p>
